@@ -1,0 +1,10 @@
+# Python bytecode and import caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Converter output
+*.journal-app.json
